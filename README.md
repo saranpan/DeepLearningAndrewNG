@@ -3,4 +3,4 @@
 Status
 
 - Deep L-Layers (checked)
-- Weight initialization (In progress)
+- Weight initialization (checked)
