@@ -1,3 +1,6 @@
 # DeepLearning Andrew NG by Wallik
 
-See the resource I made and post in each branch
+Status
+
+- Deep L-Layers (checked)
+- Weight initialization (In progress)
