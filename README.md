@@ -6,3 +6,4 @@ Status
 - Weight initialization (checked)
 - Regularization (L2, DropOut) (In progress)
 - GradCheck
+
