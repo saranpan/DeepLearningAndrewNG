@@ -3,4 +3,6 @@
 Status
 
 - Deep L-Layers (checked)
-- Weight initialization (In progress)
+- Weight initialization (checked)
+- Regularization (L2, DropOut) (In progress)
+- GradCheck
